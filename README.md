@@ -11,3 +11,5 @@ https://randonumber.netlify.app/.netlify/functions/random?max=100
 ▪︎MIN .- min = 1 (note = the default maximum is 10 so when using this function if you put more than 10 as minimum it will give an error) 
 https://randonumber.netlify.app/.netlify/functions/random?min=1
 
+▪︎DEFAULT .- Using the default will generate a completely random number. 
+https://randonumber.netlify.app/.netlify/functions/random
