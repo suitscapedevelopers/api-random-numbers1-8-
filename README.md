@@ -4,6 +4,7 @@
 
 ▪︎MIN & MAX .-min = 1 max = 100 (example)
 https://random%number.vercel.app/api/random?min=1&max=100
+
 ■MAX .- max = 100 (example)
 https://random%number.vercel.app/api/random?max=100
 
